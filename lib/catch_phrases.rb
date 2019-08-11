@@ -14,3 +14,8 @@ def link
   status = 'It\'s Dangerous To Go Alone! Take This.'
   puts status
 end
+
+def any_phrase(phrase)
+  status = phrase
+  puts status
+end
